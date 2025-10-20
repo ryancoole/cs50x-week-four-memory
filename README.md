@@ -1,6 +1,6 @@
 # CS50x - Week 4: Memory
 
-This repo contains my solutions for **Week 4** of Harvard's [CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science) course. The focus this week was on learning the basics of the **memory**, including:
+This repo contains my solutions for **Week 4** of Harvard's [CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science) course. The focus this week was on learning the basics of **memory**, including:
 
 - Hexadecimal
 - Pointers
